@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tink Lab Code Testing</string>
+    <string name="loading">Loading : </string>
+    <string name="tab_city_guide">CITY GUIDE</string>
+    <string name="tab_shop">SHOP</string>
+    <string name="tab_eat">EAT</string>
+    <string name="warning_network">No Network, Please try again later.</string>
+    <string name="global_okay">OKAY</string>
+</resources>
